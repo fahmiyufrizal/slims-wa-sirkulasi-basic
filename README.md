@@ -7,6 +7,12 @@ Menambahkan tombol notifikasi WA untuk sirkulasi dan keterlambatan buku, code di
 
 Script ini awalnya dikembangkan dari SLiMS 9.4.2 namun sudah dikonversi menyesuaikan SLiMS 9.5.x . Silahkan sesuaikan dan uji coba kembali untuk SLiMS 9.4.2 atau versi di bawahnya.
 
+## Apa saja yang perlu dipersiapkan?
+- WA Desktop/WA Web yang sudah dilogin menggunakan nomor perpustakaan/pribadi
+- Notepad++ atau IDE lain yang memudahkan untuk mengubah script
+
+SELALU BACKUP FILE ASLI SEBELUM MELAKUKAN EDITING!
+
 ## Fungsi
 
 - Menambahkan tombol notifikasi WhatsApp di bagian sirkulasi, sehingga pustakawan dapat mengirimkan notifikasi/bukti sirkulasi sederhana yang berisikan nama dan tanggal pengembalian
@@ -14,10 +20,8 @@ Script ini awalnya dikembangkan dari SLiMS 9.4.2 namun sudah dikonversi menyesua
 
 ## Tutorial Pemasangan
 
-- Ready-to-go alias cesplenk. Langsung pakai!
-- Hybrid-Launcher (works well di HI3 maupun GI)
-- Auto-adjust game path (buat yang gamedisknya beda letter)
-- Auto-symlink config path (berguna buat HI3 agar tidak download config/settings ulang)
+1. Def
+2. Def
 
 ## Terimakasih Kepada
 
